@@ -18,16 +18,28 @@ Durante esta imersão, vamos explorar conceitos essenciais de **Python**, **aná
 
 * **Análises de Dados**: Aplicações práticas de análise de dados e exploração de conjuntos de dados reais.
 
-## 🚀 Como Começar:
+## 🚀 Como Rodar:
 
-1. **Clone o repositório:**
+**Clone o repositório:**
 
    ```bash
    git clone https://github.com/mateus-henriquee/imersao-alura_python_datascience.git
    ```
 
-2. **Execute as linhas de código e comece a explorar o Notebook** 😄
+**NOTEBOOK 💻:**
+1. **Execute as linhas de código uma por uma e comece a explorar o Notebook** 😄
+   
+---
 
+**DASHBOARD 🎲:**
+1. **Instale as dependências**
+   ```bash
+   pip install streamlit pandas plotly
+   ```
+2. **Rode o dashboard**
+   ```bash
+   streamlit run dashboard/dashboard.py
+   ```
 ---
 
 ## 👏 Acompanhe a Imersão na Alura!

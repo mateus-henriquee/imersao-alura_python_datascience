@@ -4,6 +4,8 @@ Bem-vindo ao repositório da **Imersão de Python para Data Science utilizando I
 
 Aqui você encontrará os notebooks e exercícios práticos que acompanham a imersão oferecida pela Alura, com foco em **Python** e **Data Science** aplicados a problemas do mundo real. O objetivo principal é usar as ferramentas da IA para analisar dados e criar soluções inteligentes! 🧠💡
 
+![Preview do DashBoard](dashboard/prev.png)
+
 ## 📚 Sobre a Imersão
 
 Durante esta imersão, vamos explorar conceitos essenciais de **Python**, **análise de dados**, e **machine learning**. Utilizaremos bibliotecas poderosas como `Pandas` e outras, para criar modelos de machine learning que podem resolver desafios práticos. Além disso, aprenderemos como aplicar IA em contextos de **Data Science**. 💻🔍
